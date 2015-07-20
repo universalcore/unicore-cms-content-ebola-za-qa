@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "5. When should someone seek medical care?", 
+  "description": "Prompt medical care is essential to improving rate of survival ", 
   "language": "eng_GB", 
   "title": "5. When should someone seek medical care?", 
   "primary_category": "3f7de85fded64143abad90b9afbd0dec", 
   "created_at": "2014-09-02T15:41:53+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-07-10T10:07:54.986336+00:00", 
+  "modified_at": "2015-07-20T10:19:49.596557+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
