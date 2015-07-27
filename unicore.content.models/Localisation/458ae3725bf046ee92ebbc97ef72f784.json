@@ -4,12 +4,12 @@
   "locale": "ara_SA", 
   "image": null, 
   "logo_text": "tackle ebola ", 
-  "logo_image": null, 
+  "logo_image": "348d5f6552524ad3b3ea8ecf15a56a28", 
   "_version": {
     "package_version": "1.4.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "logo_description": "", 
